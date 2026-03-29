@@ -74,7 +74,7 @@ The development included:
 ### Project Structure
 
 <p align="center">
-  <img src="image/project_folder.png" width="50%" />
+  <img src="images/project_folder.png" height="300px" />
 </p>
 
 The project is structured into manifest, application logic (Java/Kotlin), and resources such as layouts, drawables, and fonts.
@@ -84,7 +84,7 @@ The project is structured into manifest, application logic (Java/Kotlin), and re
 ### Class Diagram
 
 <p align="center">
-  <img src="image/class.png" width="50%" />
+  <img src="images/class.png" height="300px" />
 </p>
 
 The class diagram illustrates relationships between core components such as characters, events, venues, calendar, and map features.
