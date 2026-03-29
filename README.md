@@ -115,7 +115,7 @@ In this group project, I contributed to:
 
 The full academic report for this project can be found here:
 
-`/report/Project_Report.pdf`
+[Read full report](report/Project_Report.pdf)
 
 ---
 
