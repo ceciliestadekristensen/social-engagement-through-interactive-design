@@ -58,13 +58,13 @@ The development included:
 ### Final Implementation
 
 <p align="center">
-  <img src="image/final_bongo.png" width="35%" />
-  <img src="image/final_imple.png" width="35%" />
+  <img src="image/final_bongo.png" width="30%" />
+  <img src="image/final_imple.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="image/final_calender.png" width="10%" />
-  <img src="image/final_favorite.png" width="25%" />
+  <img src="image/final_calender.png" width="30%" />
+  <img src="image/final_favorite.png" width="30%" />
 </p>
 
 ---
