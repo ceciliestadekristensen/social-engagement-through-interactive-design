@@ -113,9 +113,9 @@ In this group project, I contributed to:
 
 ## Report
 
-The full academic report for this project can be found here:
+The full academic report for this project is available here:
 
-[Read full report](report/Project_Report.pdf)
+[Download Project Report (PDF)](https://github.com/ceciliestadekristensen/social-engagement-through-interactive-design/raw/main/report/Project_Report.pdf)
 
 ---
 
