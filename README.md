@@ -2,7 +2,9 @@
 
 An interactive Android application designed to help students discover local events based on their interests and preferences.
 
-![App Preview](image/final_implementation.png)
+<p align="center">
+  <img src="image/final_implementation.png" width="50%" />
+</p>
 
 ---
 
@@ -47,8 +49,8 @@ The development included:
 ### Early Prototype
 
 <p align="center">
-  <img src="image/first_prototype.png" width="40%" />
-  <img src="image/prototype_map.png" width="40%" />
+  <img src="image/first_prototype.png" width="30%" />
+  <img src="image/prototype_map.png" width="30%" />
 </p>
 
 ---
@@ -56,13 +58,13 @@ The development included:
 ### Final Implementation
 
 <p align="center">
-  <img src="image/final_bongo.png" width="40%" />
-  <img src="image/final_imple.png" width="40%" />
+  <img src="image/final_bongo.png" width="30%" />
+  <img src="image/final_imple.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="image/final_calender.png" width="45%" />
-  <img src="image/final_favorite.png" width="45%" />
+  <img src="image/final_calender.png" width="30%" />
+  <img src="image/final_favorite.png" width="30%" />
 </p>
 
 ---
@@ -71,7 +73,9 @@ The development included:
 
 ### Project Structure
 
-![Project Structure](image/project_folder.png)
+<p align="center">
+  <img src="image/project_folder.png" width="50%" />
+</p>
 
 The project is structured into manifest, application logic (Java/Kotlin), and resources such as layouts, drawables, and fonts.
 
@@ -79,7 +83,9 @@ The project is structured into manifest, application logic (Java/Kotlin), and re
 
 ### Class Diagram
 
-![Class Diagram](image/class.png)
+<p align="center">
+  <img src="image/class.png" width="50%" />
+</p>
 
 The class diagram illustrates relationships between core components such as characters, events, venues, calendar, and map features.
 
