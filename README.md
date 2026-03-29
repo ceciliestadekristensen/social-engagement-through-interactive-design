@@ -63,7 +63,7 @@ The development included:
 </p>
 
 <p align="center">
-  <img src="image/final_calender.png" width="30%" />
+  <img src="image/final_calender.png" width="20%" />
   <img src="image/final_favorite.png" width="30%" />
 </p>
 
