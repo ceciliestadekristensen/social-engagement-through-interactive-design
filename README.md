@@ -1,6 +1,6 @@
-# Social Engagement Through Interactive Design
+# Social Engagement App (Android)
 
-An Android application designed to help students discover local events based on their personal interests and preferences.
+An interactive Android application designed to help students discover local events based on their interests and preferences.
 
 ![App Preview](images/final_implementation.png)
 
@@ -10,16 +10,17 @@ An Android application designed to help students discover local events based on 
 
 This project explores how interactive design and Human-Computer Interaction (HCI) can support students—especially newcomers—in finding social activities that match their interests.
 
-The application uses a character-based system to guide users toward events, locations, and experiences in Aalborg.
+The application uses a character-based system to guide users toward relevant events, locations, and experiences in Aalborg.
 
 ---
 
 ## Features
 
-* Character-based event discovery (Social, Music, Active, Creative, Geeky)
+* Character-based onboarding system (Social, Music, Active, Creative, Geeky)
+* Event discovery based on user preferences
 * Interactive map with event locations
 * Timeline view of upcoming events
-* Personalized navigation based on user preferences
+* Calendar view for planning
 * Simple login system
 
 ---
@@ -34,36 +35,47 @@ This project follows an iterative design approach based on:
 
 The development included:
 
-* User research & interviews
-* Workshops & brainstorming
+* User research and interviews
+* Workshops and brainstorming sessions
 * Multiple prototype iterations
-* Usability testing
+* Usability testing and refinement
 
 ---
 
 ## Iterations
 
-### First Prototype
+### Early Prototype
 
-![App Screenshot](images/final_prototype.png)
-![App Screenshot](images/prototype_map.png)
+![Prototype](images/first_prototype.png)
 
-### Final Implementation
-
-![App Screenshot](images/final_bongo.png)
-![App Screenshot](images/final_imple.png)
-![App Screenshot](images/final_calender.png)
-![App Screenshot](images/final_favorite.png)
+![Map](images/prototype_map.png)
 
 ---
 
-## Architecture
+### Final Implementation
 
-The application follows a structured approach with:
+![Final](images/final_bongo.png)  
+![Final](images/final_imple.png)  
+![Final](images/final_calender.png)  
+![Final](images/final_favorite.png)
 
-* Model (Characters, Events, Venues)
-* Function layer (Map, Timeline)
-* User Interface layer (Views & navigation)
+---
+
+## System Architecture
+
+### Project Structure
+
+![Project Structure](images/project_folder.png)
+
+The project is structured into manifest, application logic (Java/Kotlin), and resources such as layouts, drawables, and fonts.
+
+---
+
+### Class Diagram
+
+![Class Diagram](images/class.png)
+
+The class diagram illustrates relationships between core components such as characters, events, venues, calendar, and map features.
 
 ---
 
@@ -72,6 +84,18 @@ The application follows a structured approach with:
 * Java
 * Android Studio
 * Object-Oriented Programming (OOP)
+
+---
+
+## My Contributions
+
+In this group project, I contributed to:
+
+* Development of the search functionality
+* Implementation of product/event pages
+* Navigation system
+* Carousel UI component
+* General UI improvements and bug fixing
 
 ---
 
@@ -85,20 +109,12 @@ The full academic report for this project can be found here:
 
 ## Authors
 
-* Benjamin Honoré Nielsen
-* Cecilie Städe Kristensen
-* Elia Hamann Ullerichs
-* Luna Annabell Linné Jensen
-* Sebastian Thomsen
-* Sofie Louise Fuglsang
-
----
-
-## Future Improvements
-
-* Integration with external calendars
-* Event rating system
-* Real-time data from local venues
+* Benjamin Honoré Nielsen  
+* Cecilie Städe Kristensen  
+* Elia Hamann Ullerichs  
+* Luna Annabell Linné Jensen  
+* Sebastian Thomsen  
+* Sofie Louise Fuglsang  
 
 ---
 
