@@ -1,59 +1,107 @@
-# ProjectApp8sem
- Project for 8th sem DAD
+# Social Engagement Through Interactive Design
 
+An Android application designed to help students discover local events based on their personal interests and preferences.
 
-** Download Android Studio  
+![App Preview](images/final_implementation.png)
 
-Kan downloades fra det her link: https://developer.android.com/studio  
+---
 
-Det er bedst at sige ja til de extra features man kan vælge til, men har selv sagt nej til at sende crash-report data til dem.  
+## About the Project
 
-Comprehensive Android Studio Guide: https://www.geeksforgeeks.org/android-studio-tutorial/ 
+This project explores how interactive design and Human-Computer Interaction (HCI) can support students—especially newcomers—in finding social activities that match their interests.
 
-** Android Studio Noter 
+The application uses a character-based system to guide users toward events, locations, and experiences in Aalborg.
 
-Her er mange prebuilt templates med maps og sliders mm., vi kan tage inspiration fra. Kommer med telefon emulator.  
+---
 
-Java koden høre under java mappen, som bliver lavet når et nyt projekt genereres.  
+## Features
 
-Billeder og andre rescourcer appen bruger høre under res mappen, som også bliver lavet når et nyt projekt genereres. Tutorial for fil strukturen og hvad de forskellige filer/mapper indeholder: https://www.geeksforgeeks.org/android-android-apps-file-structure/ 
+* Character-based event discovery (Social, Music, Active, Creative, Geeky)
+* Interactive map with event locations
+* Timeline view of upcoming events
+* Personalized navigation based on user preferences
+* Simple login system
 
-res/drawable mappen er for billeder.  
+---
 
-res/values har xml filer med farver og tekst, hvor de defineres og bliver 	referenced. 
+## Design Process
 
-XML er et andet sprog som mange af reference(?) filerne i en android app bruger. XML minder meget om HTML. Det står for extendable markup language. I xml skal man selv definere tags. Ingen er pre-defineret.  
+This project follows an iterative design approach based on:
 
-Android Studio bruger Gradle til at compile ens kode, og den gør mappestrukturen, som den ser ud i ens IDE, mere overskuelig (er håbet).  
+* Human-Computer Interaction (HCI)
+* Participatory Design
+* Design Thinking
 
-Det er i filen build.gradle (kaldet for et build script) at dependencies og libraries, som projektet bruger, bliver “anerkent” af gradle når man compiler. 
+The development included:
 
-Gradles build script burde ligge “øvers” i ens repocitory og ikke i en undermappe, for at gradle kan gøre sin ting (er min erfaring). 
+* User research & interviews
+* Workshops & brainstorming
+* Multiple prototype iterations
+* Usability testing
 
-gradlew (for mac) and gradlew.bat (for windows) files are wrappers(?) which run gralde and make sure the currect version is used. 
+---
 
-Man kan bruge gradle i stedet for en IDE som Android studio, og den her video forklare hvad gradle er, og giver noget kontekst for, hvorfor gradle er som den her. Man kan måske sige, at Android studio “hjælper os med at bruge gradle”. https://www.youtube.com/watch?v=-dtcEMLNmn0  
+## Iterations
 
-Android Views bruges til UI i stedet for JavaFX. 
+### First Prototype
 
-** Download Github Desktop 
+![App Screenshot](images/final_prototype.png)
+![App Screenshot](images/prototype_map.png)
 
-Github desktop bruger vi til at uploade og downloade vores kodning mellem vores egen computer og vores online repocitory på github.com.  
+### Final Implementation
 
-Kan downloades på: https://desktop.github.com/download/ 
+![App Screenshot](images/final_bongo.png)
+![App Screenshot](images/final_imple.png)
+![App Screenshot](images/final_calender.png)
+![App Screenshot](images/final_favorite.png)
 
-Tutorial der, fra step 2 og efter, gemmengår hvordan det fungere med at commit de ændringer man har lavet lokalt, push dem til ens repocitory, og hvordan man fra repocitiret laver en pull request og vælger, at ændringerne skal bruges. Den forklarer også hvordan man bruger forskellige branches så flere mennesker kan arbejde på forskellige dele af projektet samtidig, uden at komme i vejen for hinanden. Tutorialen bruger github hjemmesiden i stedet for github desktop, men det fungerer på samme måde: https://docs.github.com/en/get-started/start-your-journey/hello-world 
+---
 
+## Architecture
 
-At sætte Android Studio og Github op sammen. 
+The application follows a structured approach with:
 
-- Start med at downloade Android Studio, og tjek at det virker ved at lave et test projekt, som du godt kan slette lige bag efter. 
-- Få downloaded Github Desktop og logget ind med din Github bruger. 
-- Lav en mappe på din computer, hvor du gerne vil have koden til projektet gemt. 
-- Fra Github Desktop skal du vælge at downloade vores online repository “ProjectApp8sem”, og putte det in den mappe du lavede før. 
-- I Android Studio, åben projektet “ProjectApp8sem”. 
+* Model (Characters, Events, Venues)
+* Function layer (Map, Timeline)
+* User Interface layer (Views & navigation)
 
-Ændringer i laver i filerne burde nu kunne ses i Github Desktop, og kan pushes til en af repositoriets branches.
+---
 
+## Technologies
 
-Hej, virker det?
+* Java
+* Android Studio
+* Object-Oriented Programming (OOP)
+
+---
+
+## Report
+
+The full academic report for this project can be found here:
+
+`/report/Project_Report.pdf`
+
+---
+
+## Authors
+
+* Benjamin Honoré Nielsen
+* Cecilie Städe Kristensen
+* Elia Hamann Ullerichs
+* Luna Annabell Linné Jensen
+* Sebastian Thomsen
+* Sofie Louise Fuglsang
+
+---
+
+## Future Improvements
+
+* Integration with external calendars
+* Event rating system
+* Real-time data from local venues
+
+---
+
+## Purpose
+
+The goal of this project is to support social engagement and reduce loneliness among students by making it easier to discover relevant events and communities.
