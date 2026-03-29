@@ -3,7 +3,7 @@
 An interactive Android application designed to help students discover local events based on their interests and preferences.
 
 <p align="center">
-  <img src="image/final_implementation.png" height="300px" />
+  <img src="image/final_implementation.png" height="400px" />
 </p>
 
 ---
