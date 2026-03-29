@@ -47,8 +47,8 @@ The development included:
 ### Early Prototype
 
 <p align="center">
-  <img src="image/first_prototype.png" width="45%" />
-  <img src="image/prototype_map.png" width="45%" />
+  <img src="image/first_prototype.png" width="40%" />
+  <img src="image/prototype_map.png" width="40%" />
 </p>
 
 ---
@@ -56,8 +56,8 @@ The development included:
 ### Final Implementation
 
 <p align="center">
-  <img src="image/final_bongo.png" width="45%" />
-  <img src="image/final_imple.png" width="45%" />
+  <img src="image/final_bongo.png" width="40%" />
+  <img src="image/final_imple.png" width="40%" />
 </p>
 
 <p align="center">
