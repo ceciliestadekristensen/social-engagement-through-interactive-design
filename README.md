@@ -49,8 +49,8 @@ The development included:
 ### Early Prototype
 
 <p align="center">
-  <img src="image/first_prototype.png" width="30%" />
-  <img src="image/prototype_map.png" width="30%" />
+  <img src="image/first_prototype.png" width="35%" />
+  <img src="image/prototype_map.png" width="35%" />
 </p>
 
 ---
@@ -58,13 +58,13 @@ The development included:
 ### Final Implementation
 
 <p align="center">
-  <img src="image/final_bongo.png" width="30%" />
-  <img src="image/final_imple.png" width="30%" />
+  <img src="image/final_bongo.png" width="35%" />
+  <img src="image/final_imple.png" width="35%" />
 </p>
 
 <p align="center">
   <img src="image/final_calender.png" width="30%" />
-  <img src="image/final_favorite.png" width="30%" />
+  <img src="image/final_favorite.png" width="20%" />
 </p>
 
 ---
