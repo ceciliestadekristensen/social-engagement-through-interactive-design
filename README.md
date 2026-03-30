@@ -1,10 +1,6 @@
-# Social Engagement App (Android)
+## Social Engagement App (Android)
 
-An interactive Android application designed to help students discover local events based on their interests and preferences.
-
-<p align="center">
-  <img src="image/final_implementation.png" height="400px" />
-</p>
+Mobile app concept to help students discover social events through a personalized, character driven experience.
 
 ## Demo
 
@@ -108,13 +104,13 @@ The class diagram illustrates the relationships between core components like cha
 In this group project, I was involved in both the design and development, including:
 
 ### UI & Design
-* Desig of the overall visual style and user experience
+* Design of the overall visual style and user experience
 * Development of the character selection interface
-* Contribution to the visual parts and layout of the app
+* Contribution to UI design and layout
 
 ### Features & Implementation
 * Implementation of the timeline view for event browsing
-* Development of parts of the calendar functionality
+* Implementation of parts of the calendar functionality
 * Development of the character selection logic
 * Building and improving UI components
 
