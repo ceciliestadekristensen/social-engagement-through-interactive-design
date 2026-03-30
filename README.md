@@ -1,4 +1,4 @@
-# Social Engagement App (Android)
+# Social Engagement App
 
 Mobile app concept to help students discover social events through a personalized, character driven experience.
 
