@@ -10,32 +10,21 @@ An interactive Android application designed to help students discover local even
 
 ## About the Project
 
-This project explores how interactive design and Human-Computer Interaction (HCI) can support students—especially newcomers—in finding social activities that match their interests.
+This project explores how interactive design and Human-Computer Interaction (HCI) can support students—especially newcomers—in discovering social activities that match their interests.
 
-The application uses a character-based system to guide users toward relevant events, locations, and experiences in Aalborg.
-
----
-
-## Features
-
-* Character-based onboarding system (Social, Music, Active, Creative, Geeky)
-* Event discovery based on user preferences
-* Interactive map with event locations
-* Timeline view of upcoming events
-* Calendar view for planning
-* Simple login system
+The application introduces a character-based system that guides users toward relevant events, locations, and experiences in Aalborg.
 
 ---
 
 ## Design Process
 
-This project follows an iterative design approach based on:
+The project follows an iterative and user-centered design approach based on:
 
 * Human-Computer Interaction (HCI)
 * Participatory Design
 * Design Thinking
 
-The development included:
+The development process included:
 
 * User research and interviews
 * Workshops and brainstorming sessions
@@ -77,7 +66,10 @@ The development included:
   <img src="image/project_folder.png" height="300px" />
 </p>
 
-The project is structured into manifest, application logic (Java/Kotlin), and resources such as layouts, drawables, and fonts.
+The project is structured into:
+* Android manifest
+* Application logic (Java/Kotlin)
+* UI resources (layouts, drawables, fonts)
 
 ---
 
@@ -87,27 +79,38 @@ The project is structured into manifest, application logic (Java/Kotlin), and re
   <img src="image/class.png" height="300px" />
 </p>
 
-The class diagram illustrates relationships between core components such as characters, events, venues, calendar, and map features.
+The class diagram illustrates the relationships between core components like characters, events, venues, calendar, and map features.
 
 ---
 
 ## Technologies
 
 * Java
+* Android SDK
 * Android Studio
-* Object-Oriented Programming (OOP)
+* XML (UI layouts)
 
 ---
 
 ## My Contributions
 
-In this group project, I contributed to:
+In this group project, I was involved in both the design and development, including:
 
-* Development of the search functionality
-* Implementation of product/event pages
-* Navigation system
-* Carousel UI component
-* General UI improvements and bug fixing
+### UI & Design
+* Desig of the overall visual style and user experience
+* Development of the character selection interface
+* Contribution to the visual parts and layout of the app
+
+### Features & Implementation
+* Implementation of the timeline view for event browsing
+* Development of parts of the calendar functionality
+* Development of the character selection logic
+* Building and improving UI components
+
+### General Development
+* Navigation system improvements
+* Bug fixing and UI refinements
+* Collaboration on the overall app structure
 
 ---
 
@@ -116,6 +119,11 @@ In this group project, I contributed to:
 The full academic report for this project is available here:
 
 [Download Project Report (PDF)](https://github.com/ceciliestadekristensen/social-engagement-through-interactive-design/raw/main/report/Report.pdf)
+
+Key sections in the report:
+* Timeline implementation (Chapter 4.3.4)
+* Calendar functionality (Chapter 4.3.6)
+* Character system (Chapter 4.3.1)
 
 ---
 
@@ -132,4 +140,4 @@ The full academic report for this project is available here:
 
 ## Purpose
 
-The goal of this project is to support social engagement and reduce loneliness among students by making it easier to discover relevant events and communities.
+The goal of this project is to support social engagement and reduce loneliness among students, by making it easier to discover events and communities based on interests.
