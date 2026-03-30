@@ -6,6 +6,10 @@ An interactive Android application designed to help students discover local even
   <img src="image/final_implementation.png" height="400px" />
 </p>
 
+## Demo
+
+[▶ Watch demo video](https://raw.githubusercontent.com/ceciliestadekristensen/social-engagement-through-interactive-design/main/demo.mp4)
+
 ---
 
 ## About the Project
