@@ -17,6 +17,7 @@ An interactive Android application designed to help students discover local even
   Watch full demo video
   </a>
 </p>
+
 ---
 
 ## About the Project
