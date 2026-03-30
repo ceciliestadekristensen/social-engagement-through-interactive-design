@@ -54,8 +54,8 @@ The development process included:
 ### Final Implementation
 
 <p align="center">
-  <img src="image/final_bongo.png" height="360" />
   <img src="image/final_implementation.png" height="360" />
+  <img src="image/final_bongo.png" height="360" />
 </p>
 
 <p align="center">
