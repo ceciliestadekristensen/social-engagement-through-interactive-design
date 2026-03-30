@@ -1,4 +1,4 @@
-## Social Engagement App (Android)
+# Social Engagement App (Android)
 
 Mobile app concept to help students discover social events through a personalized, character driven experience.
 
@@ -53,15 +53,30 @@ The development process included:
 
 ### Final Implementation
 
-<p align="center">
-  <img src="image/final_implementation.png" height="360" />
-  <img src="image/final_bongo.png" height="360" />
-</p>
+### Final Implementation
 
-<p align="center">
-  <img src="image/final_imple.png" height="360" />
-  <img src="image/final_calender.png" height="360" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="image/final_implementation.png" width="250"/><br>
+      <sub><b>Character Selection</b></sub>
+    </td>
+    <td align="center">
+      <img src="image/final_bongo.png" width="250"/><br>
+      <sub><b>Character Details</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="image/final_imple.png" width="250"/><br>
+      <sub><b>Timeline View</b></sub>
+    </td>
+    <td align="center">
+      <img src="image/final_calender.png" width="250"/><br>
+      <sub><b>Calendar View</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
