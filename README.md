@@ -53,26 +53,24 @@ The development process included:
 
 ### Final Implementation
 
-### Final Implementation
-
 <table align="center">
   <tr>
     <td align="center">
-      <img src="image/final_implementation.png" width="250"/><br>
+      <img src="image/final_implementation.png" height="350"/><br>
       <sub><b>Character Selection</b></sub>
     </td>
     <td align="center">
-      <img src="image/final_bongo.png" width="250"/><br>
+      <img src="image/final_bongo.png" height="350"/><br>
       <sub><b>Character Details</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="image/final_imple.png" width="250"/><br>
+      <img src="image/final_imple.png" height="350"/><br>
       <sub><b>Timeline View</b></sub>
     </td>
     <td align="center">
-      <img src="image/final_calender.png" width="250"/><br>
+      <img src="image/final_calender.png" height="350"/><br>
       <sub><b>Calendar View</b></sub>
     </td>
   </tr>
