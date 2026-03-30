@@ -8,9 +8,9 @@ An interactive Android application designed to help students discover local even
 
 ## Demo
 
-## Demo
-
-![](https://raw.githubusercontent.com/ceciliestadekristensen/social-engagement-through-interactive-design/main/demo/demo.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ceciliestadekristensen/social-engagement-through-interactive-design/main/demo/demo.gif" width="140" />
+</p>
 
 [▶ Watch full demo video](https://raw.githubusercontent.com/ceciliestadekristensen/social-engagement-through-interactive-design/main/demo/demo.mp4)
 
