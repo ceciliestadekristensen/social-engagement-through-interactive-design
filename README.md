@@ -21,7 +21,7 @@ An interactive Android application designed to help students discover local even
 
 ## About the Project
 
-This project explores how interactive design and Human-Computer Interaction (HCI) can support students—especially newcomers—in discovering social activities that match their interests.
+This project explores how interactive design and Human-Computer Interaction (HCI) can support students, especially newcomers, in discovering social activities that match their interests.
 
 The application introduces a character-based system that guides users toward relevant events, locations, and experiences in Aalborg.
 
