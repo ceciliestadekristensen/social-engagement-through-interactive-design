@@ -55,12 +55,12 @@ The development process included:
 
 <p align="center">
   <img src="image/final_bongo.png" height="360" />
-  <img src="image/final_imple.png" height="360" />
+  <img src="image/final_implementation.png" height="360" />
 </p>
 
 <p align="center">
+  <img src="image/final_imple.png" height="360" />
   <img src="image/final_calender.png" height="360" />
-  <img src="image/final_favorite.png" height="360" />
 </p>
 
 ---
