@@ -16,6 +16,10 @@ An interactive Android application designed to help students discover local even
 
 ---
 
+<p align="center">
+  <img src="demo/demo.gif" width="280"/>
+</p>
+
 ## About the Project
 
 This project explores how interactive design and Human-Computer Interaction (HCI) can support students—especially newcomers—in discovering social activities that match their interests.
