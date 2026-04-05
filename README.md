@@ -1,6 +1,6 @@
 # Social Engagement App
 
-Mobile app concept to help students discover social events through a personalized, character driven experience.
+A mobile application concept designed to help students discover social events through a personalized interactive experince.
 
 ## Demo
 
@@ -15,17 +15,52 @@ Mobile app concept to help students discover social events through a personalize
 
 ---
 
-## About the Project
+## Overview
 
 This project explores how interactive design and Human-Computer Interaction (HCI) can support students, especially newcomers, in discovering social activities that match their interests.
 
-The application introduces a character-based system that guides users toward relevant events, locations, and experiences in Aalborg.
+The application introduces a character-driven concept that helps guide users toward social events, locations, and experiences in Aalborg based on interests and preferences.
+
+---
+
+## Project Focus
+
+The project was developed around the question of how digital solutions can support social engagement and reduce barriers to participation in student communities.
+
+The application focuses on:
+
+- Event discovery
+- Personalized exploration
+- Accessible mobile interaction
+- Character-based guidance
+- Clear navigation and visual structure
+
+---
+## My Contributions
+
+In this group project, I was involved in both the design and implementation, including:
+
+### UI & Design
+* Contributed to the visual style and user experience
+* Worked on the layout and interface structure
+* Helped shape the character selection experience
+
+### Features & Implementation
+* Implementation of the timeline view for event browsing
+* Worked on parts of the calendar related functionality
+* Contributed to character selection logic
+* Building and improving UI components
+
+### General Development
+* Collaborated on overall app structure
+* Participated in refinement and bug fixing
+* Contributed to translating design ideas into implemented features
 
 ---
 
 ## Design Process
 
-The project follows an iterative and user-centered design approach based on:
+The project followed an iterative and user-centered design approach based on:
 
 * Human-Computer Interaction (HCI)
 * Participatory Design
@@ -36,11 +71,20 @@ The development process included:
 * User research and interviews
 * Workshops and brainstorming sessions
 * Multiple prototype iterations
-* Usability testing and refinement
+* Usability testing and design refinement
 
 ---
 
-## Iterations
+## Technologies
+
+* Java
+* Android SDK
+* Android Studio
+* XML
+
+---
+
+## Screenshots
 
 ### Early Prototype
 
@@ -103,44 +147,13 @@ The class diagram illustrates the relationships between core components like cha
 
 ---
 
-## Technologies
-
-* Java
-* Android SDK
-* Android Studio
-* XML (UI layouts)
-
----
-
-## My Contributions
-
-In this group project, I was involved in both the design and development, including:
-
-### UI & Design
-* Design of the overall visual style and user experience
-* Development of the character selection interface
-* Contribution to UI design and layout
-
-### Features & Implementation
-* Implementation of the timeline view for event browsing
-* Implementation of parts of the calendar functionality
-* Development of the character selection logic
-* Building and improving UI components
-
-### General Development
-* Navigation system improvements
-* Bug fixing and UI refinements
-* Collaboration on the overall app structure
-
----
-
 ## Report
 
 The full academic report for this project is available here:
 
 [Download Project Report (PDF)](https://github.com/ceciliestadekristensen/social-engagement-through-interactive-design/raw/main/report/Report.pdf)
 
-Key sections in the report:
+Relevant sections include:
 * Timeline implementation (Chapter 4.3.4)
 * Calendar functionality (Chapter 4.3.6)
 * Character system (Chapter 4.3.1)
@@ -160,4 +173,6 @@ Key sections in the report:
 
 ## Purpose
 
-The goal of this project is to support social engagement and reduce loneliness among students, by making it easier to discover events and communities based on interests.
+The goal of this project was to explore how mobile interaction design and application development can support social engagement by making it easier for students to discover activities and communities that match their interests.
+
+---
