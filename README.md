@@ -5,7 +5,7 @@ A mobile application concept designed to help students discover social events th
 ## Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ceciliestadekristensen/social-engagement-through-interactive-design/main/demo/demo.gif" width="140" />
+  <img src="https://raw.githubusercontent.com/ceciliestadekristensen/social-engagement-through-interactive-design/main/demo/demo.gif" width="200" />
 </p>
 
 
