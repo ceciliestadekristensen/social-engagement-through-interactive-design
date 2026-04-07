@@ -107,8 +107,6 @@ The development process included:
       <img src="image/final_bongo.png" height="350"/><br>
       <sub><b>Character Details</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="image/final_imple.png" height="350"/><br>
       <sub><b>Timeline View</b></sub>
